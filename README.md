@@ -12,4 +12,4 @@
 - By using tableau, we can quickly analyze and calculations data.
 - Anyone can analyze data with intuitive drag & drop products.
 - Connect and visualize the data clearly and quickly.
-- Smart Dashboards and Story to combine multiple views of data. Refer to ![alt text](../main/ScreenShot_Dashboard.png "Dashboard")
+- Smart Dashboards and Story to combine multiple views of data. Refer to Dashboard below: ![alt text](../main/ScreenShot_Dashboard.png "Dashboard")
