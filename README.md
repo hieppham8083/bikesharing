@@ -1,5 +1,5 @@
 # bikesharing
-- Creating tableau to analyze bikeshare data in nyc. Refer to [Tableau_Public_Module Challebge](https://public.tableau.com/profile/hiep.pham#!/vizhome/Module_Challenge/NYCStory?publish=yes) and [Tableau_Public_Module](https://public.tableau.com/profile/hiep.pham#!/vizhome/Book1_16145648009480/NYCCitiBike?publish=yes)
+- Creating tableau to analyze bikeshare data in nyc. Refer to [Tableau_Public_Module Challenge](https://public.tableau.com/profile/hiep.pham#!/vizhome/Module_Challenge/NYCStory?publish=yes) and [Tableau_Public_Module](https://public.tableau.com/profile/hiep.pham#!/vizhome/Book1_16145648009480/NYCCitiBike?publish=yes)
 
 ## Challenge
 - Find out total of 2,344,224 trips
